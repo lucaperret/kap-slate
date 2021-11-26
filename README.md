@@ -1,4 +1,4 @@
-# kap-slate ![Node.js CI](https://github.com/lucaperret/kap-slate/workflows/Node.js%20CI/badge.svg?branch=master) [![npm](https://img.shields.io/npm/dt/kap-slate.svg)](https://www.npmjs.com/package/kap-slate)
+# kap-slate [![CI](https://github.com/lucaperret/kap-slate/actions/workflows/main.yml/badge.svg)](https://github.com/lucaperret/kap-slate/actions/workflows/main.yml) [![npm](https://img.shields.io/npm/dt/kap-slate.svg)](https://www.npmjs.com/package/kap-slate)
 
 <p align="center">
   <img width="300" src="slate.jpg">
