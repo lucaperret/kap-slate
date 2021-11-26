@@ -1,0 +1,38 @@
+{
+	"name": "kap-slate",
+	"version": "1.0.0",
+	"description": "Kap plugin - Share on Slate.host",
+	"main": "index.js",
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"repository": "lucaperret/kap-slate",
+	"keywords": [
+		"kap-plugin",
+		"slate",
+		"ipfs",
+		"filecoin",
+		"textile",
+		"web3",
+		"gif",
+		"mp4",
+		"webm",
+		"apng",
+		"upload",
+		"share"
+	],
+	"author": "Luca Perret",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/lucaperret/kap-slate/issues"
+	},
+	"homepage": "https://github.com/lucaperret/kap-slate#readme",
+	"dependencies": {
+		"form-data": "^4.0.0"
+	},
+	"devDependencies": {
+		"ava": "^3.15.0",
+		"kap-plugin-test": "^0.5.0",
+		"xo": "^0.26.0"
+	}
+}
